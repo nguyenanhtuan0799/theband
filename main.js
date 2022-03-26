@@ -1,0 +1,1 @@
+const btnElement = document.querySelectorAll(".js-place-btn");
